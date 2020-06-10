@@ -65,7 +65,7 @@ img {
   color: var(--primary-white-color);
 }
 
-/* nav */
+/* Хедер */
 .site-nav .link:hover,
 .site-nav .link:focus {
   color: var(--accent-color);
